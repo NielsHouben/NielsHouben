@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently pursuing a **Master of Science in Computer Science and Software Engineering** at [Linköping University](https://studieinfo.liu.se/en/program/6CMJU).
+I'm currently pursuing a **Master of Science in Computer Science and Software Engineering** at [Linköping University](https://studieinfo.liu.se/en/program/6CMJU/5430).
 
 ### Contact
 - Personal email: niels.houben1@gmail.com  
